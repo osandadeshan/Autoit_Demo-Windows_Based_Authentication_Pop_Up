@@ -1,0 +1,1326 @@
+17:57:07.437 Got a kill message. Killing runner.
+17:57:11.443 Killing runner with PID:10816 forcefully
+21:42:41.213 Killing Gauge daemon. Parent process with pid 16796 has terminated.
+ PID:6316 forcefully
+18:06:06.136 Checking updates...
+18:06:12.961 # Specification Heading
+18:06:12.964 ## Scenario Heading
+18:06:12.967 * Run this Autoit file
+18:06:36.554 Plugin [Html Report] with pid [168] did not exit after 4.00 seconds. Forcefully killing it.
+18:06:36.956 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:06:36.956 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:06:36.956 
+Total time taken: 20.083s
+18:06:36.956 Updates are available. Run gauge --check-updates for more info.
+18:10:12.428 Checking updates...
+18:10:19.272 # Specification Heading
+18:10:19.275 ## Scenario Heading
+18:10:19.317 * Run this Autoit file
+18:10:28.094 
+Failed Step: Run this Autoit file
+18:10:28.095 Specification: specs\TestSpec.spec:10
+18:10:28.095 Error Message: java.io.IOException: Cannot run program "C:\POM_Newdemo\EF_Automation_Demo\UI3_Authentication.exe": CreateProcess error=2, The system cannot find the file specified
+18:10:28.095 Stacktrace: 
+java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+java.lang.Runtime.exec(Runtime.java:620)
+java.lang.Runtime.exec(Runtime.java:450)
+java.lang.Runtime.exec(Runtime.java:347)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:17)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+18:10:28.811 Plugin [Html Report] with pid [18148] has exited
+18:10:29.618 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:10:29.618 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:10:29.618 
+Total time taken: 8.953s
+18:10:29.618 Updates are available. Run gauge --check-updates for more info.
+18:11:07.495 Checking updates...
+18:11:13.978 # Specification Heading
+18:11:13.980 ## Scenario Heading
+18:11:13.983 * Run this Autoit file
+18:11:22.168 Plugin [Html Report] with pid [11452] has exited
+18:11:22.894 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:11:22.894 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:11:22.894 
+Total time taken: 8.226s
+18:11:22.894 Updates are available. Run gauge --check-updates for more info.
+18:11:33.176 Checking updates...
+18:11:38.814 # Specification Heading
+18:11:38.818 ## Scenario Heading
+18:11:38.820 * Run this Autoit file
+18:11:59.819 Plugin [Html Report] with pid [6232] has exited
+18:12:00.425 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:12:00.425 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:12:00.425 
+Total time taken: 21.018s
+18:12:00.425 Updates are available. Run gauge --check-updates for more info.
+21:15:31.402 Checking updates...
+21:15:37.604 # Specification Heading
+21:15:37.605 ## Scenario Heading
+21:15:37.607 * Run this Autoit file
+21:16:21.185 Plugin [Html Report] with pid [18280] has exited
+21:16:21.926 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:16:21.926 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:16:21.926 
+Total time taken: 43.607s
+21:16:21.928 Updates are available. Run gauge --check-updates for more info.
+21:51:26.671 Got a kill message. Killing runner.
+21:51:30.674 Killing runner with PID:6956 forcefully
+21:53:02.738 Checking updates...
+21:53:03.987 # Specification Heading
+21:53:03.989 ## Scenario Heading
+21:53:03.992 * Run this Autoit file
+21:53:56.854 Plugin [Html Report] with pid [1128] has exited
+21:53:58.431 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:53:58.431 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:53:58.431 
+Total time taken: 51.032s
+21:53:58.431 Updates are available. Run gauge --check-updates for more info.
+21:55:23.482 Checking updates...
+21:55:26.667 # Specification Heading
+21:55:26.669 ## Scenario Heading
+21:55:26.672 * Run this Autoit file
+21:55:49.504 Plugin [Html Report] with pid [8992] has exited
+21:55:50.309 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:55:50.309 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:55:50.309 
+Total time taken: 22.852s
+21:55:50.309 Updates are available. Run gauge --check-updates for more info.
+21:56:01.828 # Specification Heading
+21:56:01.831 ## Scenario Heading
+21:56:01.834 * Run this Autoit file
+21:56:02.500 Checking updates...
+21:56:58.746 Plugin [Html Report] with pid [9056] has exited
+21:56:59.350 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:56:59.350 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:56:59.350 
+Total time taken: 56.909s
+21:56:59.351 Updates are available. Run gauge --check-updates for more info.
+21:57:47.658 Checking updates...
+21:57:49.162 # Specification Heading
+21:57:49.164 ## Scenario Heading
+21:57:49.167 * Run this Autoit file
+21:57:49.669 
+Failed Step: Run this Autoit file
+21:57:49.669 Specification: specs\TestSpec.spec:10
+21:57:49.669 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+21:57:49.669 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)
+org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)
+org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:116)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:17)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+21:57:49.775 Plugin [Html Report] with pid [8844] has exited
+21:57:50.176 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:57:50.176 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:57:50.176 
+Total time taken: 602ms
+21:58:53.239 Checking updates...
+21:58:54.166 # Specification Heading
+21:58:54.168 ## Scenario Heading
+21:58:54.171 * Run this Autoit file
+21:58:55.035 
+Failed Step: Run this Autoit file
+21:58:55.035 Specification: specs\TestSpec.spec:10
+21:58:55.035 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+21:58:55.035 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.ie.InternetExplorerDriverService.access$000(InternetExplorerDriverService.java:32)
+org.openqa.selenium.ie.InternetExplorerDriverService$Builder.findDefaultExecutable(InternetExplorerDriverService.java:167)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.ie.InternetExplorerDriver.setupService(InternetExplorerDriver.java:251)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:172)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:146)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+21:58:55.145 Plugin [Html Report] with pid [6976] has exited
+21:58:55.571 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:58:55.572 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:58:55.572 
+Total time taken: 972ms
+22:11:39.808 Checking updates...
+22:11:42.682 # Specification Heading
+22:11:42.684 ## Scenario Heading
+22:11:42.687 * Run this Autoit file
+22:11:43.118 
+Failed Step: Run this Autoit file
+22:11:43.118 Specification: specs\TestSpec.spec:10
+22:11:43.118 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+22:11:43.119 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.ie.InternetExplorerDriverService.access$000(InternetExplorerDriverService.java:32)
+org.openqa.selenium.ie.InternetExplorerDriverService$Builder.findDefaultExecutable(InternetExplorerDriverService.java:167)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.ie.InternetExplorerDriver.setupService(InternetExplorerDriver.java:251)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:172)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:146)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:11:43.827 Plugin [Html Report] with pid [4040] has exited
+22:11:44.129 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:11:44.129 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:11:44.129 
+Total time taken: 532ms
+22:11:44.129 Updates are available. Run gauge --check-updates for more info.
+22:21:36.407 Checking updates...
+22:21:51.717 Error Message: java.lang.RuntimeException: java.lang.RuntimeException: [IEDriverServer] (latest version) for win64 not found in http://selenium-release.storage.googleapis.com/
+22:21:51.717 Stacktrace: 
+io.github.bonigarcia.wdm.BrowserManager.manage(BrowserManager.java:272)
+io.github.bonigarcia.wdm.BrowserManager.setup(BrowserManager.java:103)
+io.github.bonigarcia.wdm.BrowserManager.setup(BrowserManager.java:82)
+autoit.demo.DriverFactory.Setup(DriverFactory.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:21:51.717 Error Message: java.lang.NullPointerException
+22:21:51.717 Stacktrace: 
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:44)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:21:51.820 Plugin [Html Report] with pid [5408] has exited
+22:21:52.124 Specifications:	0 executed	0 passed	0 failed	0 skipped
+22:21:52.124 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+22:21:52.124 
+Total time taken: 11.804s
+22:21:52.124 Updates are available. Run gauge --check-updates for more info.
+22:23:02.701 Checking updates...
+22:23:16.867 # Specification Heading
+22:23:16.872 ## Scenario Heading
+22:23:16.877 * Run this Autoit file
+22:23:17.110 
+Failed Step: Run this Autoit file
+22:23:17.110 Specification: specs\TestSpec.spec:10
+22:23:17.110 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+22:23:17.110 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.ie.InternetExplorerDriverService.access$000(InternetExplorerDriverService.java:32)
+org.openqa.selenium.ie.InternetExplorerDriverService$Builder.findDefaultExecutable(InternetExplorerDriverService.java:167)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.ie.InternetExplorerDriver.setupService(InternetExplorerDriver.java:251)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:172)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:146)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:23:18.241 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MitraiOsandaN', ip: '192.168.8.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\osanda\AppData\Local\Temp\scoped_dir8456_4596}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: be287ad40bcb800845aaea70e1beaca6
+22:23:18.241 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:23:18.445 Plugin [Html Report] with pid [1072] has exited
+22:23:18.746 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:23:18.746 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:23:18.746 
+Total time taken: 12.03s
+22:23:18.746 Updates are available. Run gauge --check-updates for more info.
+22:24:12.044 Checking updates...
+22:24:26.204 # Specification Heading
+22:24:26.210 ## Scenario Heading
+22:24:26.215 * Run this Autoit file
+22:24:26.545 
+Failed Step: Run this Autoit file
+22:24:26.545 Specification: specs\TestSpec.spec:10
+22:24:26.545 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+22:24:26.545 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.ie.InternetExplorerDriverService.access$000(InternetExplorerDriverService.java:32)
+org.openqa.selenium.ie.InternetExplorerDriverService$Builder.findDefaultExecutable(InternetExplorerDriverService.java:167)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.ie.InternetExplorerDriver.setupService(InternetExplorerDriver.java:251)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:172)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:146)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:24:27.574 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MitraiOsandaN', ip: '192.168.8.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\osanda\AppData\Local\Temp\scoped_dir7196_17687}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 65ceaae30b778393a8107a231fd1434c
+22:24:27.574 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:24:27.778 Plugin [Html Report] with pid [9028] has exited
+22:24:28.080 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:24:28.080 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:24:28.080 
+Total time taken: 11.647s
+22:24:28.080 Updates are available. Run gauge --check-updates for more info.
+22:27:29.137 Checking updates...
+22:27:44.910 # Specification Heading
+22:27:44.917 ## Scenario Heading
+22:27:44.925 * Run this Autoit file
+22:27:45.242 
+Failed Step: Run this Autoit file
+22:27:45.242 Specification: specs\TestSpec.spec:10
+22:27:45.242 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.ie.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver. The latest version can be downloaded from http://selenium-release.storage.googleapis.com/index.html
+22:27:45.242 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:177)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.ie.InternetExplorerDriverService.access$000(InternetExplorerDriverService.java:32)
+org.openqa.selenium.ie.InternetExplorerDriverService$Builder.findDefaultExecutable(InternetExplorerDriverService.java:167)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.ie.InternetExplorerDriver.setupService(InternetExplorerDriver.java:251)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:172)
+org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:146)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:18)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:27:46.302 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MitraiOsandaN', ip: '192.168.8.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.29.461591 (62ebf098771772160f391d75e589dc567915b233), userDataDir=C:\Users\osanda\AppData\Local\Temp\scoped_dir7868_3559}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=57.0.2987.133, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=}]
+Session ID: 980c4e073b38bd5fb3f2f681fe63f4ee
+22:27:46.303 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+22:27:46.506 Plugin [Html Report] with pid [5900] has exited
+22:27:46.907 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:27:46.907 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:27:46.907 
+Total time taken: 14.27s
+22:27:46.907 Updates are available. Run gauge --check-updates for more info.
+10:28:58.862 Checking updates...
+10:29:13.215 Error Message: java.lang.NoClassDefFoundError: org/openqa/selenium/mobile/NetworkConnection
+10:29:13.215 Stacktrace: 
+java.lang.ClassLoader.defineClass1(Native Method)
+java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+java.security.AccessController.doPrivileged(Native Method)
+java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+autoit.demo.DriverFactory.Setup(DriverFactory.java:33)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:29:13.215 Error Message: java.lang.NullPointerException
+10:29:13.215 Stacktrace: 
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:29:14.624 Plugin [Html Report] with pid [11004] has exited
+10:29:15.028 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:29:15.028 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:29:15.028 
+Total time taken: 6.917s
+10:29:15.028 Updates are available. Run gauge --check-updates for more info.
+10:29:42.633 Checking updates...
+10:29:48.246 Error Message: java.lang.NoClassDefFoundError: org/openqa/selenium/mobile/NetworkConnection
+10:29:48.246 Stacktrace: 
+java.lang.ClassLoader.defineClass1(Native Method)
+java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+java.security.AccessController.doPrivileged(Native Method)
+java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+autoit.demo.DriverFactory.Setup(DriverFactory.java:33)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:29:48.246 Error Message: java.lang.NullPointerException
+10:29:48.246 Stacktrace: 
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:29:48.450 Plugin [Html Report] with pid [10460] has exited
+10:29:48.751 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:29:48.751 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:29:48.751 
+Total time taken: 2.238s
+10:29:48.751 Updates are available. Run gauge --check-updates for more info.
+10:30:09.095 Checking updates...
+10:30:13.106 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+10:30:13.106 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.firefox.GeckoDriverService.access$000(GeckoDriverService.java:37)
+org.openqa.selenium.firefox.GeckoDriverService$Builder.findDefaultExecutable(GeckoDriverService.java:95)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.firefox.FirefoxDriver.createCommandExecutor(FirefoxDriver.java:277)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:247)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:242)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:238)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:127)
+autoit.demo.DriverFactory.Setup(DriverFactory.java:39)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionStartingProcessor.process(SuiteExecutionStartingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:30:13.107 Error Message: java.lang.NullPointerException
+10:30:13.107 Stacktrace: 
+autoit.demo.DriverFactory.TearDown(DriverFactory.java:45)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.executeHook(HooksExecutor.java:102)
+com.thoughtworks.gauge.execution.HooksExecutor$TaggedHookExecutor.execute(HooksExecutor.java:88)
+com.thoughtworks.gauge.execution.HooksExecutor.execute(HooksExecutor.java:45)
+com.thoughtworks.gauge.processor.MethodExecutionMessageProcessor.executeHooks(MethodExecutionMessageProcessor.java:65)
+com.thoughtworks.gauge.processor.SuiteExecutionEndingProcessor.process(SuiteExecutionEndingProcessor.java:32)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:30:13.311 Plugin [Html Report] with pid [5200] has exited
+10:30:13.612 Specifications:	0 executed	0 passed	0 failed	0 skipped
+10:30:13.612 Scenarios:	0 executed	0 passed	0 failed	0 skipped
+10:30:13.612 
+Total time taken: 693ms
+10:30:13.612 Updates are available. Run gauge --check-updates for more info.
+10:33:23.635 Checking updates...
+10:33:27.139 # Specification Heading
+10:33:27.142 ## Scenario Heading
+10:33:27.144 * Run this Autoit file
+10:33:27.620 
+Failed Step: Run this Autoit file
+10:33:27.620 Specification: specs\TestSpec.spec:10
+10:33:27.620 Error Message: java.lang.NoClassDefFoundError: org/openqa/selenium/mobile/NetworkConnection
+10:33:27.620 Stacktrace: 
+java.lang.ClassLoader.defineClass1(Native Method)
+java.lang.ClassLoader.defineClass(ClassLoader.java:763)
+java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+java.net.URLClassLoader.defineClass(URLClassLoader.java:467)
+java.net.URLClassLoader.access$100(URLClassLoader.java:73)
+java.net.URLClassLoader$1.run(URLClassLoader.java:368)
+java.net.URLClassLoader$1.run(URLClassLoader.java:362)
+java.security.AccessController.doPrivileged(Native Method)
+java.net.URLClassLoader.findClass(URLClassLoader.java:361)
+java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:16)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:33:27.927 Plugin [Html Report] with pid [8512] has exited
+10:33:28.229 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:33:28.229 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:33:28.229 
+Total time taken: 592ms
+10:33:28.229 Updates are available. Run gauge --check-updates for more info.
+10:35:08.731 Checking updates...
+10:35:12.104 # Specification Heading
+10:35:12.106 ## Scenario Heading
+10:35:12.108 * Run this Autoit file
+10:35:12.597 
+Failed Step: Run this Autoit file
+10:35:12.597 Specification: specs\TestSpec.spec:10
+10:35:12.597 Error Message: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases
+10:35:12.597 Stacktrace: 
+com.google.common.base.Preconditions.checkState(Preconditions.java:199)
+org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:109)
+org.openqa.selenium.firefox.GeckoDriverService.access$000(GeckoDriverService.java:37)
+org.openqa.selenium.firefox.GeckoDriverService$Builder.findDefaultExecutable(GeckoDriverService.java:95)
+org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)
+org.openqa.selenium.firefox.FirefoxDriver.createCommandExecutor(FirefoxDriver.java:277)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:247)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:242)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:238)
+org.openqa.selenium.firefox.FirefoxDriver.<init>(FirefoxDriver.java:127)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:17)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:132)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+10:35:12.904 Plugin [Html Report] with pid [168] has exited
+10:35:13.305 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:35:13.305 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:35:13.305 
+Total time taken: 594ms
+10:35:13.305 Updates are available. Run gauge --check-updates for more info.
+10:37:24.833 Checking updates...
+10:37:28.546 # Specification Heading
+10:37:28.548 ## Scenario Heading
+10:37:28.550 * Run this Autoit file
+10:38:06.146 Plugin [Html Report] with pid [12188] has exited
+10:38:06.749 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:38:06.749 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:38:06.749 
+Total time taken: 37.608s
+10:38:06.749 Updates are available. Run gauge --check-updates for more info.
+10:38:13.938 Checking updates...
+10:38:17.525 # Specification Heading
+10:38:17.527 ## Scenario Heading
+10:38:17.530 * Run this Autoit file
+10:45:15.218 Plugin [Html Report] with pid [11904] has exited
+10:45:15.820 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:45:15.820 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:45:15.820 
+Total time taken: 6m57.602s
+10:45:15.820 Updates are available. Run gauge --check-updates for more info.
+15:29:19.408 Checking updates...
+15:29:25.358 # Specification Heading
+15:29:25.360 ## Scenario Heading
+15:29:25.362 * Run this Autoit file
+15:29:54.007 Plugin [Html Report] with pid [9520] has exited
+15:29:54.309 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:29:54.309 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:29:54.309 
+Total time taken: 27.395s
+15:29:54.309 Updates are available. Run gauge --check-updates for more info.
+15:50:01.857 Checking updates...
+15:50:06.091 # Specification Heading
+15:50:06.093 ## Scenario Heading
+15:50:06.095 * Run this Autoit file
+15:50:25.146 Plugin [Html Report] with pid [12180] has exited
+15:50:25.748 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:50:25.748 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:50:25.748 
+Total time taken: 18.997s
+15:50:25.748 Updates are available. Run gauge --check-updates for more info.
+15:25:25.069 Got a kill message. Killing runner.
+15:25:29.099 Killing runner with PID:1032 forcefully
+15:29:29.974 Checking updates...
+15:29:34.767 # Specification Heading
+15:29:34.770 ## Scenario Heading
+15:29:34.773 * Run this Autoit file
+15:30:53.691 Plugin [Html Report] with pid [10720] has exited
+15:30:54.093 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:30:54.093 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:30:54.093 
+Total time taken: 1m18.446s
+15:30:54.093 Updates are available. Run gauge --check-updates for more info.
+15:31:33.531 Got a kill message. Killing runner.
+15:31:37.535 Killing runner with PID:6980 forcefully
+15:31:53.922 Checking updates...
+15:31:58.581 # Specification Heading
+15:31:58.583 ## Scenario Heading
+15:31:58.585 * Run this Autoit file
+15:32:41.703 Plugin [Html Report] with pid [18768] has exited
+15:32:42.417 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:32:42.417 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:32:42.417 
+Total time taken: 42.925s
+15:32:42.417 Updates are available. Run gauge --check-updates for more info.
+15:32:51.918 Checking updates...
+15:32:56.850 # Specification Heading
+15:32:56.853 ## Scenario Heading
+15:32:56.855 * Run this Autoit file
+15:33:27.570 Plugin [Html Report] with pid [15220] has exited
+15:33:27.972 Specifications:	1 executed	1 passed	0 failed	0 skipped
+15:33:27.972 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+15:33:27.972 
+Total time taken: 30.424s
+15:33:27.972 Updates are available. Run gauge --check-updates for more info.
+08:29:13.832 Checking updates...
+08:29:19.447 # Specification Heading
+08:29:19.449 ## Scenario Heading
+08:29:19.451 * Run this Autoit file
+08:29:54.810 Plugin [Html Report] with pid [11076] has exited
+08:29:55.622 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:29:55.622 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:29:55.622 
+Total time taken: 35.301s
+08:30:03.928 Checking updates...
+08:30:09.097 # Specification Heading
+08:30:09.099 ## Scenario Heading
+08:30:09.102 * Run this Autoit file
+08:30:27.544 Plugin [Html Report] with pid [4564] has exited
+08:30:28.147 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:30:28.147 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:30:28.147 
+Total time taken: 18.364s
+08:31:23.723 Checking updates...
+08:31:28.670 # Specification Heading
+08:31:28.672 ## Scenario Heading
+08:31:28.674 * Run this Autoit file
+08:31:57.888 Plugin [Html Report] with pid [8116] has exited
+08:31:58.288 Specifications:	1 executed	1 passed	0 failed	0 skipped
+08:31:58.288 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+08:31:58.288 
+Total time taken: 28.681s
+11:30:23.082 Checking updates...
+11:30:32.423 # Specification Heading
+11:30:32.424 ## Scenario Heading
+11:30:32.426 * Run this Autoit file
+
+11:31:19.379 * Close the driver
+11:31:21.611 
+Failed Step: Close the driver
+11:31:21.611 Specification: specs\TestSpec.spec:16
+11:31:21.611 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: de93fe5c-50bf-4d45-8b5c-87e903ae1807
+11:31:21.611 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:29)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:31:21.919 Plugin [Html Report] with pid [11496] has exited
+11:31:22.321 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:31:22.321 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:31:22.321 
+Total time taken: 49.385s
+11:31:28.860 Checking updates...
+11:31:34.237 # Specification Heading
+11:31:34.238 ## Scenario Heading
+11:31:34.240 * Run this Autoit file
+
+11:31:53.483 * Close the driver
+11:31:56.195 
+Failed Step: Close the driver
+11:31:56.195 Specification: specs\TestSpec.spec:16
+11:31:56.195 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 6b4c83a8-d1a1-4289-b482-b40b935334cc
+11:31:56.195 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:29)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:31:56.508 Plugin [Html Report] with pid [1892] has exited
+11:31:56.966 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:31:56.966 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:31:56.966 
+Total time taken: 22.096s
+11:31:57.498 Checking updates...
+11:32:03.496 # Specification Heading
+11:32:03.499 ## Scenario Heading
+11:32:03.503 * Run this Autoit file
+
+11:32:26.296 * Close the driver
+11:32:27.182 Plugin [Html Report] with pid [10444] has exited
+11:32:27.588 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:32:27.588 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:32:27.588 
+Total time taken: 23.507s
+11:32:35.589 Checking updates...
+11:32:40.969 # Specification Heading
+11:32:40.972 ## Scenario Heading
+11:32:40.975 * Run this Autoit file
+
+11:32:56.385 * Close the driver
+11:32:58.265 
+Failed Step: Close the driver
+11:32:58.265 Specification: specs\TestSpec.spec:16
+11:32:58.265 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8d57a0cb-d30e-49cf-b3ec-6f2faa49cde6
+11:32:58.265 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:29)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:32:58.577 Plugin [Html Report] with pid [7832] has exited
+11:32:58.979 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:32:58.979 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:32:58.979 
+Total time taken: 17.409s
+11:36:05.967 Checking updates...
+11:36:11.278 # Specification Heading
+11:36:11.279 ## Scenario Heading
+11:36:11.282 * Run this Autoit file
+
+11:36:33.876 * Close the driver
+11:36:34.616 Plugin [Html Report] with pid [11092] has exited
+11:36:34.918 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:36:34.918 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:36:34.918 
+Total time taken: 23.263s
+11:38:52.304 Checking updates...
+11:38:57.641 # Specification Heading
+11:38:57.642 ## Scenario Heading
+11:38:57.645 * Run this Autoit file
+
+11:39:17.536 * Close the driver
+11:39:19.464 
+Failed Step: Close the driver
+11:39:19.464 Specification: specs\TestSpec.spec:16
+11:39:19.464 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 1317fd3a-87b2-405f-8a2b-7cd6a9911fd2
+11:39:19.464 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:36)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:39:19.676 Plugin [Html Report] with pid [1432] has exited
+11:39:20.081 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:39:20.081 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:39:20.081 
+Total time taken: 21.939s
+11:39:41.353 Checking updates...
+11:39:46.749 # Specification Heading
+11:39:46.751 ## Scenario Heading
+11:39:46.753 * Run this Autoit file
+
+11:40:04.894 * Close the driver
+11:40:06.859 
+Failed Step: Close the driver
+11:40:06.860 Specification: specs\TestSpec.spec:16
+11:40:06.860 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d3ca8a11-7592-44b0-b2e4-483ebd8155ed
+11:40:06.860 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:40:07.065 Plugin [Html Report] with pid [13388] has exited
+11:40:07.468 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:40:07.468 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:40:07.468 
+Total time taken: 20.226s
+11:40:13.063 Checking updates...
+11:40:18.427 # Specification Heading
+11:40:18.428 ## Scenario Heading
+11:40:18.431 * Run this Autoit file
+
+11:41:01.147 * Close the driver
+11:41:02.969 
+Failed Step: Close the driver
+11:41:02.969 Specification: specs\TestSpec.spec:16
+11:41:02.969 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 07a8473c-82ab-466a-b8f4-712ce33b6c75
+11:41:02.970 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.quit(RemoteWebDriver.java:526)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:41:03.291 Plugin [Html Report] with pid [4500] has exited
+11:41:03.594 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:41:03.594 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:41:03.594 
+Total time taken: 44.671s
+11:41:29.160 Checking updates...
+11:41:34.161 # Specification Heading
+11:41:34.162 ## Scenario Heading
+11:41:34.165 * Run this Autoit file
+
+11:42:08.203 * Close the driver
+11:42:09.582 
+Failed Step: Close the driver
+11:42:09.583 Specification: specs\TestSpec.spec:16
+11:42:09.583 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 047e619d-c396-4d71-85cb-eef59e040346
+11:42:09.583 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:521)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:42:09.792 Plugin [Html Report] with pid [13672] has exited
+11:42:10.195 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:42:10.195 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:42:10.195 
+Total time taken: 35.568s
+11:42:20.783 Checking updates...
+11:42:25.985 # Specification Heading
+11:42:25.986 ## Scenario Heading
+11:42:25.989 * Run this Autoit file
+11:42:50.860 * Close the driver
+
+11:42:52.249 
+Failed Step: Close the driver
+11:42:52.249 Specification: specs\TestSpec.spec:12
+11:42:52.249 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 48cd4b9e-82ac-4ca1-afb5-c9f3eeaad98d
+11:42:52.249 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:521)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:42:52.249 * Close the driver
+11:42:53.538 
+Failed Step: Close the driver
+11:42:53.538 Specification: specs\TestSpec.spec:16
+11:42:53.538 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 48cd4b9e-82ac-4ca1-afb5-c9f3eeaad98d
+11:42:53.538 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:521)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:42:53.748 Plugin [Html Report] with pid [5208] has exited
+11:42:54.150 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:42:54.150 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:42:54.150 
+Total time taken: 27.669s
+11:43:25.341 Checking updates...
+11:43:30.659 # Specification Heading
+11:43:30.661 ## Scenario Heading
+11:43:30.664 * Run this Autoit file
+11:43:59.238 
+Failed Step: Run this Autoit file
+11:43:59.239 Specification: specs\TestSpec.spec:11
+11:43:59.239 Error Message: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Mitrai-OsandaN', ip: '192.168.88.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: f694cba2-ef45-4cc0-ae67-a733188a8b2b
+11:43:59.239 Stacktrace: 
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:701)
+org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:521)
+autoit.demo.Handling_Windows_Based_Prompt.quit(Handling_Windows_Based_Prompt.java:35)
+autoit.demo.Handling_Windows_Based_Prompt.testm(Handling_Windows_Based_Prompt.java:30)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:74)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:49)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+11:43:59.448 Plugin [Html Report] with pid [9432] has exited
+11:43:59.855 Specifications:	1 executed	0 passed	1 failed	0 skipped
+11:43:59.855 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11:43:59.855 
+Total time taken: 28.697s
+11:44:21.351 Checking updates...
+11:44:26.775 # Specification Heading
+11:44:26.777 ## Scenario Heading
+11:44:26.780 * Run this Autoit file
+11:44:40.405 Plugin [Html Report] with pid [11392] has exited
+11:44:40.706 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:44:40.706 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:44:40.706 
+Total time taken: 13.549s
+11:45:51.789 Checking updates...
+11:45:51.845 # Specification Heading
+11:45:51.846 ## Scenario Heading
+11:45:51.849 * Run this Autoit file
+11:46:05.491 Plugin [Html Report] with pid [1164] has exited
+11:46:05.794 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:46:05.794 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:46:05.794 
+Total time taken: 13.563s
+11:46:10.268 Checking updates...
+11:46:15.429 # Specification Heading
+11:46:15.430 ## Scenario Heading
+11:46:15.432 * Run this Autoit file
+11:46:31.639 Plugin [Html Report] with pid [13600] has exited
+11:46:31.941 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:46:31.941 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:46:31.941 
+Total time taken: 16.228s
+11:49:04.248 Checking updates...
+11:49:09.155 # Specification Heading
+11:49:09.157 ## Scenario Heading
+11:49:09.159 * Run this Autoit file
+11:49:22.119 Plugin [Html Report] with pid [13880] has exited
+11:49:22.420 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:49:22.420 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:49:22.420 
+Total time taken: 12.968s
+11:54:08.488 Checking updates...
+11:54:13.426 # Specification Heading
+11:54:13.428 ## Scenario Heading
+11:54:13.431 * Run this Autoit file
+11:54:26.177 Plugin [Html Report] with pid [12976] has exited
+11:54:26.579 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:54:26.579 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:54:26.579 
+Total time taken: 12.745s
+11:59:22.907 Checking updates...
+11:59:28.469 # Specification Heading
+11:59:28.471 ## Scenario Heading
+11:59:28.474 * Run this Autoit file
+11:59:42.070 Plugin [Html Report] with pid [13256] has exited
+11:59:42.372 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:59:42.372 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:59:42.372 
+Total time taken: 13.625s
+12:11:03.210 Checking updates...
+12:11:08.458 # Specification Heading
+12:11:08.460 ## Scenario Heading
+12:11:08.463 * Run this Autoit file
+12:11:33.580 Plugin [Html Report] with pid [7624] has exited
+12:11:34.184 Specifications:	1 executed	1 passed	0 failed	0 skipped
+12:11:34.184 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12:11:34.184 
+Total time taken: 25.134s

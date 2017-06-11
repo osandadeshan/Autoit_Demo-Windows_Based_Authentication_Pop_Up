@@ -1,0 +1,336 @@
+17:56:57.273 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+17:56:57.275 Watching directory: C:\Users\osanda\IdeaProjects\Autoit\specs
+17:56:57.275 Found 1 files
+17:56:57.275 Initializing concepts cache with 0 concepts
+17:56:57.276 Initializing specs cache with 1 specs
+17:56:57.276 Adding specs from C:\Users\osanda\IdeaProjects\Autoit\specs\example.spec
+17:56:57.276 Initializing steps cache with 3 steps
+17:56:58.235 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17:56:58.237 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\osanda\\AppData\\Roaming\\gauge\\plugins\\java\\0.6.1\\libs" > 
+17:57:00.091 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17:57:00.092 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\osanda\\AppData\\Roaming\\gauge\\plugins\\java\\0.6.1\\libs" > 
+17:57:01.719 Api Request Received: messageType:GetLanguagePluginLibPathRequest messageId:5 libPathRequest:<language:"java" > 
+17:57:01.724 Sending API response: messageType:GetLanguagePluginLibPathResponse messageId:5 libPathResponse:<path:"C:\\Users\\osanda\\AppData\\Roaming\\gauge\\plugins\\java\\0.6.1\\libs" > 
+17:57:14.560 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Almost all words have vowels <wordsTable>" > 
+17:57:14.560 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Almost all words have vowels {}" parameterizedStepValue:"Almost all words have vowels <wordsTable>" parameters:"wordsTable" > > 
+17:57:14.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Vowels in English language are <vowelString>." > 
+17:57:14.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Vowels in English language are {}." parameterizedStepValue:"Vowels in English language are <vowelString>." parameters:"vowelString" > > 
+17:57:14.569 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"The word <word> has <expectedCount> vowels." > 
+17:57:14.569 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"The word {} has {} vowels." parameterizedStepValue:"The word <word> has <expectedCount> vowels." parameters:"word" parameters:"expectedCount" > > 
+17:57:33.339 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\example.spec
+17:58:31.108 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:31.354 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:31.355 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:36.561 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:36.564 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:37.243 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+17:58:37.244 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+17:58:42.389 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:42.391 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:58:43.319 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+17:58:43.319 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+17:59:15.652 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+17:59:15.652 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+17:59:31.694 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+17:59:31.694 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+17:59:36.039 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+17:59:36.039 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+17:59:36.596 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+17:59:36.598 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+18:05:54.349 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+18:05:54.350 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+31 Found 1 files
+18:01:23.632 Initializing concepts cache with 0 concepts
+18:01:23.632 Initializing specs cache with 1 specs
+18:01:23.632 Adding specs from C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+18:01:23.632 Initializing steps cache with 1 steps
+18:05:13.013 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+18:05:13.014 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+18:05:54.353 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+18:05:54.361 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+18:06:12.379 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+18:06:12.383 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+18:10:19.022 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+18:10:19.023 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+18:11:13.673 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+18:11:13.675 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+18:11:38.602 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+18:11:38.606 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:15:37.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:15:37.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:51:16.499 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+21:51:16.517 Watching directory: C:\Users\osanda\IdeaProjects\Autoit\specs
+21:51:16.518 Found 1 files
+21:51:16.599 Initializing concepts cache with 0 concepts
+21:51:16.602 Initializing specs cache with 1 specs
+21:51:16.602 Adding specs from C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+21:51:16.602 Initializing steps cache with 1 steps
+21:51:52.002 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:51:52.002 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:51:52.003 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:51:52.004 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:53:03.287 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:53:03.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:55:26.362 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:55:26.362 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:56:01.658 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:56:01.661 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:57:48.955 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:57:48.957 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+21:58:53.959 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+21:58:53.961 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+22:11:42.540 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+22:11:42.541 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+22:21:39.850 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+22:21:39.850 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+22:23:06.162 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+22:23:06.162 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+22:24:15.880 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+22:24:15.880 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+22:27:31.974 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+22:27:31.975 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:29:06.218 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:29:06.219 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:29:45.940 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:29:45.942 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:30:12.349 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:30:12.349 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:33:26.965 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:33:26.965 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:35:11.944 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:35:11.944 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:37:28.269 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:37:28.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+10:38:17.350 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+10:38:17.352 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+13:47:58.381 Spec file removed: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+13:47:58.388 Spec file added / modified: C:\Users\osanda\IdeaProjects\Autoit\specs\TestSpec.spec
+15:29:24.911 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:29:24.911 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:50:05.876 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:50:05.877 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:25:12.446 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+15:25:12.470 Watching directory: C:\Users\osanda\IdeaProjects\Autoit_Demo\specs
+15:25:12.471 Found 1 files
+15:25:12.495 Initializing concepts cache with 0 concepts
+15:25:12.499 Initializing specs cache with 1 specs
+15:25:12.499 Adding specs from C:\Users\osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+15:25:12.499 Initializing steps cache with 1 steps
+15:25:47.435 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:25:47.435 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:29:14.407 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:29:14.408 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:29:34.250 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:29:34.253 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:31:32.764 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+15:31:32.767 Watching directory: C:\Users\osanda\IdeaProjects\Autoit_Demo\specs
+15:31:32.767 Found 1 files
+15:31:32.770 Initializing concepts cache with 0 concepts
+15:31:32.771 Initializing specs cache with 1 specs
+15:31:32.771 Adding specs from C:\Users\osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+15:31:32.771 Initializing steps cache with 1 steps
+15:31:38.309 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:31:38.309 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:31:58.268 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:31:58.272 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+15:32:56.645 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+15:32:56.648 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+08:27:23.517 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+08:27:23.535 Watching directory: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs
+08:27:23.536 Found 1 files
+08:27:23.538 Initializing concepts cache with 0 concepts
+08:27:23.538 Initializing specs cache with 1 specs
+08:27:23.538 Adding specs from C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+08:27:23.538 Initializing steps cache with 1 steps
+08:27:41.302 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+08:27:41.302 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+08:29:19.245 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+08:29:19.246 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+08:30:08.914 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+08:30:08.917 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+08:31:28.507 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+08:31:28.507 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:29:27.518 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:29:27.519 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:29:44.624 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:44.625 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:44.755 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:44.757 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:44.944 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:44.946 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:45.408 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:45.411 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:48.497 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:48.499 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:57.563 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:29:57.566 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:30:18.264 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:30:18.265 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:30:32.158 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:30:32.161 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:30:32.172 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:30:32.172 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:31:34.037 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:31:34.037 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:31:34.048 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:31:34.048 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:32:03.273 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:32:03.276 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:32:03.286 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:32:03.286 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:32:40.792 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:32:40.795 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:32:40.806 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:32:40.806 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:33:17.205 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:33:17.206 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:33:17.215 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+11:33:17.215 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+11:33:18.701 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wa" > 
+11:33:18.701 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wa" parameterizedStepValue:"Wa" > > 
+11:33:19.449 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wai" > 
+11:33:19.449 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wai" parameterizedStepValue:"Wai" > > 
+11:33:20.129 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait " > 
+11:33:20.129 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait" parameterizedStepValue:"Wait" > > 
+11:33:21.665 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait f" > 
+11:33:21.665 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait f" parameterizedStepValue:"Wait f" > > 
+11:33:22.061 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for" > 
+11:33:22.062 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for" parameterizedStepValue:"Wait for" > > 
+11:33:22.625 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for " > 
+11:33:22.627 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for" parameterizedStepValue:"Wait for" > > 
+11:33:23.774 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <" > 
+11:33:23.774 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+11:33:23.779 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <" > 
+11:33:23.779 Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+11:33:24.704 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <>" > 
+11:33:24.704 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <>" parameters:"" > > 
+11:33:27.154 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <se>" > 
+11:33:27.154 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <se>" parameters:"se" > > 
+11:33:27.520 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <seco>" > 
+11:33:27.520 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <seco>" parameters:"seco" > > 
+11:33:27.952 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <second>" > 
+11:33:27.953 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <second>" parameters:"second" > > 
+11:33:28.483 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <seconds>" > 
+11:33:28.483 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <seconds>" parameters:"seconds" > > 
+11:33:34.922 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <seconds> " > 
+11:33:34.922 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {}" parameterizedStepValue:"Wait for <seconds>" parameters:"seconds" > > 
+11:33:35.702 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait for <seconds> seconds" > 
+11:33:35.702 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait for {} seconds" parameterizedStepValue:"Wait for <seconds> seconds" parameters:"seconds" > > 
+11:33:38.397 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:33:38.398 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:36:11.072 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:36:11.075 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:36:11.088 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:36:11.088 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:36:11.089 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:36:11.089 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:38:57.468 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:38:57.468 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:38:57.480 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:38:57.481 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:38:57.481 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:38:57.481 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:39:46.574 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:39:46.577 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:39:46.588 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:39:46.589 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:39:46.589 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:39:46.589 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:40:18.250 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:40:18.254 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:40:18.264 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:40:18.265 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:40:18.265 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:40:18.265 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:41:33.948 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:41:33.949 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:41:33.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:41:33.960 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:41:33.960 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:41:33.961 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:42:18.725 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:42:18.726 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:42:25.803 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:42:25.804 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:42:25.816 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:42:25.816 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:42:25.816 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:42:25.817 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:43:22.145 Spec file removed: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:43:22.146 Spec file added / modified: C:\Users\Osanda\IdeaProjects\Autoit_Demo\specs\TestSpec.spec
+11:43:30.462 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:43:30.470 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:43:30.481 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:43:30.482 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:43:30.482 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:43:30.482 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:44:26.587 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:44:26.588 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:44:26.600 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:44:26.600 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:44:26.600 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:44:26.601 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:45:51.649 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:45:51.650 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:45:51.662 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:45:51.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:45:51.663 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:45:51.663 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:46:15.236 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:46:15.237 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:46:15.255 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:46:15.255 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:46:15.256 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:46:15.256 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:48:38.937 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+11:48:38.938 Watching directory: C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs
+11:48:38.938 Found 1 files
+11:48:38.940 Initializing concepts cache with 0 concepts
+11:48:38.941 Initializing specs cache with 1 specs
+11:48:38.941 Adding specs from C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs\TestSpec.spec
+11:48:38.941 Initializing steps cache with 1 steps
+11:49:08.984 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:49:08.985 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:49:08.996 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:49:08.996 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:49:08.996 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:49:08.997 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:53:44.173 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+11:53:44.174 Watching directory: C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs
+11:53:44.174 Found 1 files
+11:53:44.177 Initializing concepts cache with 0 concepts
+11:53:44.177 Initializing specs cache with 1 specs
+11:53:44.177 Adding specs from C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs\TestSpec.spec
+11:53:44.178 Initializing steps cache with 1 steps
+11:54:13.272 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:54:13.273 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:54:13.283 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:54:13.283 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:54:13.284 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:54:13.284 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+11:59:02.674 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+11:59:02.675 Watching directory: C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs
+11:59:02.675 Found 1 files
+11:59:02.677 Initializing concepts cache with 0 concepts
+11:59:02.678 Initializing specs cache with 1 specs
+11:59:02.678 Adding specs from C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs\TestSpec.spec
+11:59:02.678 Initializing steps cache with 1 steps
+11:59:28.278 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+11:59:28.279 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+11:59:28.290 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+11:59:28.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+11:59:28.291 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+11:59:28.291 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
+12:10:53.741 Failed to start execution API Service. GAUGE_API_V2_PORT Environment variable not set 
+12:10:53.742 Watching directory: C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs
+12:10:53.742 Found 1 files
+12:10:53.743 Initializing concepts cache with 0 concepts
+12:10:53.744 Initializing specs cache with 1 specs
+12:10:53.744 Adding specs from C:\Users\Osanda\IdeaProjects\Autoit_Demo - Windows Based Authentication Pop Up\specs\TestSpec.spec
+12:10:53.744 Initializing steps cache with 1 steps
+12:11:08.277 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <seconds> seconds" > 
+12:11:08.278 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <seconds> seconds" parameters:"seconds" > > 
+12:11:08.289 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Close the driver" > 
+12:11:08.289 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Close the driver" parameterizedStepValue:"Close the driver" > > 
+12:11:08.290 Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Run this Autoit file" > 
+12:11:08.290 Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Run this Autoit file" parameterizedStepValue:"Run this Autoit file" > > 
